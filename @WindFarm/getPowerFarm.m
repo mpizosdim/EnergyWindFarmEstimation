@@ -53,4 +53,5 @@ if length(Velocity) ==1
     figure
     surf(v,'EdgeColor','None');
     view(2);
+    axis([0 obj.Area.xx(end) 0 obj.Area.yy(end)])
 end
