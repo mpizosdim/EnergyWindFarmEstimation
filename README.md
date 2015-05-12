@@ -1,8 +1,6 @@
-# VAWTanalysis
-VAWT analysis
-A graphical user interface tool to simulate the aerodynamics and the motion of offshore vertical axis wind turbine. MATLAB is used for the simulations.
-
-![alt tag](https://github.com/mpizosdim/EnergyWindFarmEstimation/blob/master/WindAnalysis.png)
+# Wind Farm Layout/Wind Data Analysis
+A Graphical User interface app to analyse the input layout of a wind farm. The app has the functionallity for wind data analysis
+![alt tag](https://github.com/mpizosdim/EnergyWindFarmEstimation/blob/master/GUIimage.png)
 
 ## Functionallity
 
